@@ -18,6 +18,7 @@ Develop an end to end solution to first **standardize an address** and then **va
 | Non-Standardized | Standardized |
 | ------ | ------ |
 | 121 jones street montgomer, AL | 121 Jones St Montgomery AL 36104-4945 |
+| 12993 Johnson Wantagh New York state 11793 | 2993 Johnson Pl Wantagh NY 11793-2836|
 | 2701 phillips Avenue, charlote, N.C. | 2701 Phillips Ave Charlotte NC 28208-7029 |
 | 616 ivory rio rancho NM, 87124 | 616 Ivory Rd SE Rio Rancho NM 87124-3042 |
 | 2707 Elm Ave Albequerque NM 87102-9997 | 2707 Elm Ave Albequerque NM 87102-9997 |
